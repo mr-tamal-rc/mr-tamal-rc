@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi, I'm Tamal Roy Chowdhury
+</h1>  
 
-<!--
-**mr-tamal-rc/mr-tamal-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Web Developer**  
+🚀 Passionate about building modern web applications with **React, Next.js, Node.js, Fastify, Prisma & SQLite**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Frontend:** React 19, Next.js 15, TailwindCSS, TypeScript  
+- **Backend:** Node.js, Fastify, Prisma ORM, SQLite, DirectUS
+- **DevOps & Cloud:** GitHub Actions, CI/CD, Vercel, Netlify, DigitalOcean   
+- **Other Tools:** Git, GitHub, HTTPie, VS Code  
+
